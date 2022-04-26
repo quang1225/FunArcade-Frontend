@@ -70,6 +70,7 @@
       "singlePlayer": "Single Player",
       "language": "Language",
       "login": "Log In",
+      "loginViaWallet": "Log In via blockchain wallet",
       "signup": "Sign Up",
       "logout": "Log out",
       "wallet": "Wallet",

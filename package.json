@@ -1,7 +1,7 @@
 {
   "name": "funasia-frontend",
   "description": "Frontend Game",
-  "version": "0.0.2",
+  "version": "1.0.2",
   "license": "MIT",
   "engines": {
     "npm": ">=6.12.0",
@@ -12,27 +12,17 @@
     "template",
     "template.json"
   ],
-  "keywords": [
-    "FunAsia",
-    "FunArcade",
-    "Games"
-  ],
   "scripts": {
     "// ---DEFAULT CRA---": "",
     "start:origin": "react-app-rewired start",
     "build:origin": "react-app-rewired build",
     "test:origin": "react-app-rewired test",
     "// ---TEMPLATE---": "Scripts will be also in the template",
-    "start:local-funasia": "env-cmd -f ./environments/.env.local-funasia yarn start:origin",
-    "start:dev-funasia": "env-cmd -f ./environments/.env.dev-funasia yarn start:origin",
-    "start:beta-funasia": "env-cmd -f ./environments/.env.beta-funasia yarn start:origin",
-    "start:local-funarcade": "env-cmd -f ./environments/.env.local-funarcade yarn start:origin",
-    "start:dev-funarcade": "env-cmd -f ./environments/.env.dev-funarcade yarn start:origin",
-    "start:beta-funarcade": "env-cmd -f ./environments/.env.beta-funarcade yarn start:origin",
-    "build:dev-funasia": "env-cmd -f ./environments/.env.dev-funasia yarn build:origin",
-    "build:beta-funasia": "env-cmd -f ./environments/.env.beta-funasia yarn build:origin",
-    "build:dev-funarcade": "env-cmd -f ./environments/.env.dev-funarcade yarn build:origin",
-    "build:beta-funarcade": "env-cmd -f ./environments/.env.beta-funarcade yarn build:origin",
+    "start:local": "env-cmd -f ./environments/.env.local yarn start:origin",
+    "start:dev": "env-cmd -f ./environments/.env.dev yarn start:origin",
+    "start:beta": "env-cmd -f ./environments/.env.beta yarn start:origin",
+    "build:dev": "env-cmd -f ./environments/.env.dev yarn build:origin",
+    "build:beta": "env-cmd -f ./environments/.env.beta yarn build:origin",
     "test:generators": "ts-node --project=./internals/ts-node.tsconfig.json ./internals/testing/generators/test-generators.ts",
     "eslint": "eslint --ext js,jsx,ts,tsx",
     "lint": "yarn run eslint src",

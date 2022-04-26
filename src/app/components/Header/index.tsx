@@ -968,16 +968,15 @@ const Header = () => {
             <>
               <CommonButton
                 className="login-btn"
-                text={t(...messages.login())}
+                text={t(...messages.loginViaWallet())}
                 background="var(--global--background-color-4)"
-                width="160"
-                onClick={clickLogin}
+                onClick={showSignupPopup}
               />
               <CommonButton
                 className="signup-btn"
-                text={t(...messages.signup())}
+                text={t(...messages.login())}
                 width="160"
-                onClick={showSignupPopup}
+                onClick={clickLogin}
               />
             </>
           )}

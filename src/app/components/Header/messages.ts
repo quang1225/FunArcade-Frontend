@@ -10,6 +10,8 @@ export const messages = {
   singlePlayer: () => _t(scope.singlePlayer, 'Single Player'),
   language: () => _t(scope.language, 'Language'),
   login: () => _t(scope.login, 'Log In'),
+  loginViaWallet: () =>
+    _t(scope.loginViaWallet, 'Log In via blockchain wallet'),
   signup: () => _t(scope.signup, 'Sign Up'),
   logout: () => _t(scope.logout, 'Log out'),
   wallet: () => _t(scope.wallet, 'Wallet'),

@@ -76,7 +76,7 @@ const LoginSignup = () => {
     <Wrapper>
       <CommonTab
         name="wallet-dialog"
-        listTab={['Signup', 'Login']}
+        listTab={[t(...messages.signup()), t(...messages.login())]}
         currentTab={tab}
         setTab={setTab}
         tabMargin={40}
@@ -88,11 +88,13 @@ const LoginSignup = () => {
           type="text"
           name="username"
           label={t(...messages.username())}
+          disabled
         />
         <CommonField
           type="text"
           name="password"
           label={t(...messages.password())}
+          disabled
         />
         {tab === 1 && (
           <span className="forgot_password">
@@ -104,6 +106,7 @@ const LoginSignup = () => {
             type="text"
             name="email"
             label={`${t(...messages.email())} ${t(...messages.optional())}`}
+            disabled
           />
         )}
 
@@ -111,6 +114,7 @@ const LoginSignup = () => {
           className="submit-btn"
           text={tab === 0 ? t(...messages.signup()) : t(...messages.login())}
           width="160"
+          disabled
         />
 
         <TextMiddleLine text={t(...messages.orConnectWith())} />

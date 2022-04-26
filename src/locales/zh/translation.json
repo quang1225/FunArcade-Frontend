@@ -70,6 +70,7 @@
       "singlePlayer": "单个播放器",
       "language": "语文",
       "login": "登录",
+      "loginViaWallet": "通过区块链钱包登录",
       "signup": "注册",
       "logout": "注销",
       "wallet": "钱包",

@@ -70,6 +70,7 @@
       "singlePlayer": "Único Jogador",
       "language": "Idioma",
       "login": "Log Em",
+      "loginViaWallet": "Inicie sesión a través de la billetera blockchain",
       "signup": "Cadine Up",
       "logout": "Log out",
       "wallet": "Carteira",

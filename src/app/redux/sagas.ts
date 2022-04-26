@@ -90,30 +90,23 @@ function* getUserWalletsFunc() {
     const currencies: Currency[] = (yield call(getCurrenciesApi, token))?.data;
     yield put({ type: SET_CURRENCIES, payload: currencies });
 
-    const tokens = ['FAT', 'USDC'];
+    let mappedWallets: UserWallet[] = userWallets.map(x => ({
+      walletObj: x,
+      currencyObj:
+        currencies.find(y => y.id === x.currencyId) || ({} as Currency),
+    }));
 
-    let mappedWallets: UserWallet[] = [];
-
-    mappedWallets = mappedWallets.concat(
-      tokens.map(token => ({
-        walletObj: {
-          balance: 1000000,
-        } as UserWalletRes,
-        currencyObj: {
-          shortname: token,
-        } as Currency,
-      })),
-    );
-
-    const tempWallet = userWallets.find(x => x.currencyId === 5);
-    if (tempWallet) {
-      mappedWallets.push({
-        walletObj: tempWallet,
-        currencyObj:
-          currencies.find(y => y.id === tempWallet.currencyId) ||
-          ({} as Currency),
-      });
-    }
+    // const tokens = ['FAT', 'USDC'];
+    // mappedWallets = mappedWallets.concat(
+    //   tokens.map(token => ({
+    //     walletObj: {
+    //       balance: 1000000,
+    //     } as UserWalletRes,
+    //     currencyObj: {
+    //       shortname: token,
+    //     } as Currency,
+    //   })),
+    // );
 
     mappedWallets.sort(
       (a, b) =>
