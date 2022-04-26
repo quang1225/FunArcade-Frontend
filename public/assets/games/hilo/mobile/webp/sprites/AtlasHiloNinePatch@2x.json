@@ -1,0 +1,104 @@
+{
+	"textures": [
+		{
+			"image": "AtlasHiloNinePatch@2x.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 128,
+				"h": 256
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bg-high",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 40,
+						"h": 40
+					},
+					"frame": {
+						"x": 4,
+						"y": 4,
+						"w": 40,
+						"h": 40
+					}
+				},
+				{
+					"filename": "bg-low",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 40,
+						"h": 40
+					},
+					"frame": {
+						"x": 50,
+						"y": 4,
+						"w": 40,
+						"h": 40
+					}
+				},
+				{
+					"filename": "bg-table",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 32,
+						"h": 140
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 32,
+						"h": 140
+					},
+					"frame": {
+						"x": 4,
+						"y": 50,
+						"w": 32,
+						"h": 140
+					}
+				},
+				{
+					"filename": "bg-ratio",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 40,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 40,
+						"h": 40
+					},
+					"frame": {
+						"x": 4,
+						"y": 196,
+						"w": 40,
+						"h": 40
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:7b8c499ae1a310961cca82c5cf516a24:08bbafe3eeeae45981514e40b5c4a584:5111cc8e873e2d15cd1fad1df80400a8$"
+	}
+}

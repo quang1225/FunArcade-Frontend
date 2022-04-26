@@ -1,0 +1,314 @@
+{
+	"textures": [
+		{
+			"image": "AtlasJackpotMisc@2x.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 512,
+				"h": 1024
+			},
+			"scale": 0.666667,
+			"frames": [
+				{
+					"filename": "spinner",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 461,
+						"h": 259
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 461,
+						"h": 258
+					},
+					"frame": {
+						"x": 4,
+						"y": 4,
+						"w": 461,
+						"h": 258
+					}
+				},
+				{
+					"filename": "icon-dollar",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 18,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 18,
+						"h": 32
+					},
+					"frame": {
+						"x": 471,
+						"y": 4,
+						"w": 18,
+						"h": 32
+					}
+				},
+				{
+					"filename": "color-item",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 64
+					},
+					"frame": {
+						"x": 471,
+						"y": 42,
+						"w": 16,
+						"h": 64
+					}
+				},
+				{
+					"filename": "bot-statistical",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 390,
+						"h": 37
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 390,
+						"h": 37
+					},
+					"frame": {
+						"x": 4,
+						"y": 268,
+						"w": 390,
+						"h": 37
+					}
+				},
+				{
+					"filename": "blue",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 85,
+						"h": 85
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 85,
+						"h": 85
+					},
+					"frame": {
+						"x": 400,
+						"y": 268,
+						"w": 85,
+						"h": 85
+					}
+				},
+				{
+					"filename": "button",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 356,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 356,
+						"h": 80
+					},
+					"frame": {
+						"x": 4,
+						"y": 311,
+						"w": 356,
+						"h": 80
+					}
+				},
+				{
+					"filename": "middle-statistical",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 80,
+						"h": 80
+					},
+					"frame": {
+						"x": 366,
+						"y": 359,
+						"w": 80,
+						"h": 80
+					}
+				},
+				{
+					"filename": "top-statistical",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 345,
+						"h": 91
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 345,
+						"h": 91
+					},
+					"frame": {
+						"x": 4,
+						"y": 397,
+						"w": 345,
+						"h": 91
+					}
+				},
+				{
+					"filename": "light",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 73,
+						"h": 73
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 73,
+						"h": 73
+					},
+					"frame": {
+						"x": 355,
+						"y": 445,
+						"w": 73,
+						"h": 73
+					}
+				},
+				{
+					"filename": "count-down",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 260,
+						"h": 143
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 260,
+						"h": 143
+					},
+					"frame": {
+						"x": 4,
+						"y": 494,
+						"w": 260,
+						"h": 143
+					}
+				},
+				{
+					"filename": "char-normal",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 179,
+						"h": 242
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 179,
+						"h": 242
+					},
+					"frame": {
+						"x": 270,
+						"y": 524,
+						"w": 179,
+						"h": 242
+					}
+				},
+				{
+					"filename": "ticket-remaining",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 259,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 259,
+						"h": 110
+					},
+					"frame": {
+						"x": 4,
+						"y": 643,
+						"w": 259,
+						"h": 110
+					}
+				},
+				{
+					"filename": "middle-statistical1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 241,
+						"h": 241
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 241,
+						"h": 241
+					},
+					"frame": {
+						"x": 4,
+						"y": 772,
+						"w": 241,
+						"h": 241
+					}
+				},
+				{
+					"filename": "bg-win",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 160,
+						"h": 112
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 160,
+						"h": 112
+					},
+					"frame": {
+						"x": 251,
+						"y": 772,
+						"w": 160,
+						"h": 112
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:3e1120689785c0af90c0e5cb791a119b:769eb8cb0b390e6fc9fc4f889a4d3ec6:d9687cadb562433344be34f986af1ab5$"
+	}
+}

@@ -1,0 +1,41 @@
+{
+	"textures": [
+		{
+			"image": "AtlasDiceNinePatch.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 128,
+				"h": 512
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bg-table",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 84,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 84,
+						"h": 420
+					},
+					"frame": {
+						"x": 4,
+						"y": 4,
+						"w": 84,
+						"h": 420
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:dcbeb047bd7ce31a4b78ceab0a8fae4e:2e65257a994b703edbda8ae7654da308:39f90c8d7c5e65b4879439f7814ee7dc$"
+	}
+}

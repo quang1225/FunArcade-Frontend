@@ -1,0 +1,7 @@
+#!/bin/sh
+. "$(dirname "$0")/_/husky.sh"
+
+yarn lint-staged
+
+# fix The '.husky/pre-commit' hook was ignored because it's not set as executable.
+# chmod ug+x .husky/*

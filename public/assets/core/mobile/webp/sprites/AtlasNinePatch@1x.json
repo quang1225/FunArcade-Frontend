@@ -1,0 +1,62 @@
+{
+	"textures": [
+		{
+			"image": "AtlasNinePatch@1x.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 128,
+				"h": 64
+			},
+			"scale": 0.333333,
+			"frames": [
+				{
+					"filename": "board-1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 60,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 60,
+						"h": 40
+					},
+					"frame": {
+						"x": 4,
+						"y": 4,
+						"w": 60,
+						"h": 40
+					}
+				},
+				{
+					"filename": "board-0",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 27,
+						"h": 27
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 27,
+						"h": 27
+					},
+					"frame": {
+						"x": 70,
+						"y": 4,
+						"w": 27,
+						"h": 27
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:cc60ed65506cd755cf6dc7bcd644054c:cea7a64f0221017bf5413473f47d49b0:b8893823265974106243d2a69d753553$"
+	}
+}

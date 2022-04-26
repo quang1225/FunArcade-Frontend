@@ -1,0 +1,209 @@
+{
+	"textures": [
+		{
+			"image": "AtlasLuckyWheelMisc@3x.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1024,
+				"h": 1024
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bg-jackpot",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 658,
+						"h": 116
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 658,
+						"h": 116
+					},
+					"frame": {
+						"x": 3,
+						"y": 3,
+						"w": 658,
+						"h": 116
+					}
+				},
+				{
+					"filename": "dust-circle",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 350,
+						"h": 349
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 350,
+						"h": 349
+					},
+					"frame": {
+						"x": 665,
+						"y": 3,
+						"w": 350,
+						"h": 349
+					}
+				},
+				{
+					"filename": "lucky-jackpot",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 630,
+						"h": 616
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 630,
+						"h": 616
+					},
+					"frame": {
+						"x": 3,
+						"y": 123,
+						"w": 630,
+						"h": 616
+					}
+				},
+				{
+					"filename": "icon-people",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 20,
+						"h": 20
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 20,
+						"h": 20
+					},
+					"frame": {
+						"x": 637,
+						"y": 123,
+						"w": 20,
+						"h": 20
+					}
+				},
+				{
+					"filename": "golden-smoke",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 350,
+						"h": 329
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 350,
+						"h": 329
+					},
+					"frame": {
+						"x": 637,
+						"y": 356,
+						"w": 350,
+						"h": 329
+					}
+				},
+				{
+					"filename": "background-item-betting",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 519,
+						"h": 131
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 519,
+						"h": 131
+					},
+					"frame": {
+						"x": 3,
+						"y": 743,
+						"w": 519,
+						"h": 131
+					}
+				},
+				{
+					"filename": "blue",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 102,
+						"h": 102
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 102,
+						"h": 102
+					},
+					"frame": {
+						"x": 3,
+						"y": 878,
+						"w": 102,
+						"h": 102
+					}
+				},
+				{
+					"filename": "icon-coin-jackpot",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 32,
+						"h": 32
+					},
+					"frame": {
+						"x": 3,
+						"y": 984,
+						"w": 32,
+						"h": 32
+					}
+				},
+				{
+					"filename": "star",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 52,
+						"h": 50
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 52,
+						"h": 50
+					},
+					"frame": {
+						"x": 109,
+						"y": 878,
+						"w": 52,
+						"h": 50
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:5090a77412129cbdbbfb4a290a169619:8c47c20cf2638032f426381781e17734:da33510c25ca3a6a9a332377f72250f3$"
+	}
+}

@@ -1,0 +1,209 @@
+{
+	"textures": [
+		{
+			"image": "AtlasCrashMeteorExplode.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 512,
+				"h": 512
+			},
+			"scale": 0.6,
+			"frames": [
+				{
+					"filename": "meteor-explode-7",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 218,
+						"h": 189
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 218,
+						"h": 189
+					},
+					"frame": {
+						"x": 3,
+						"y": 3,
+						"w": 218,
+						"h": 189
+					}
+				},
+				{
+					"filename": "meteor-explode-6",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 218,
+						"h": 189
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 5,
+						"w": 188,
+						"h": 179
+					},
+					"frame": {
+						"x": 226,
+						"y": 3,
+						"w": 188,
+						"h": 179
+					}
+				},
+				{
+					"filename": "meteor-explode-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 218,
+						"h": 189
+					},
+					"spriteSourceSize": {
+						"x": 62,
+						"y": 50,
+						"w": 80,
+						"h": 76
+					},
+					"frame": {
+						"x": 419,
+						"y": 3,
+						"w": 80,
+						"h": 76
+					}
+				},
+				{
+					"filename": "meteor-explode-0",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 218,
+						"h": 189
+					},
+					"spriteSourceSize": {
+						"x": 74,
+						"y": 64,
+						"w": 44,
+						"h": 47
+					},
+					"frame": {
+						"x": 419,
+						"y": 84,
+						"w": 44,
+						"h": 47
+					}
+				},
+				{
+					"filename": "meteor-explode-8",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 218,
+						"h": 189
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 16,
+						"w": 175,
+						"h": 170
+					},
+					"frame": {
+						"x": 226,
+						"y": 187,
+						"w": 175,
+						"h": 170
+					}
+				},
+				{
+					"filename": "meteor-explode-5",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 218,
+						"h": 189
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 13,
+						"w": 171,
+						"h": 163
+					},
+					"frame": {
+						"x": 3,
+						"y": 197,
+						"w": 171,
+						"h": 163
+					}
+				},
+				{
+					"filename": "meteor-explode-4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 218,
+						"h": 189
+					},
+					"spriteSourceSize": {
+						"x": 27,
+						"y": 23,
+						"w": 150,
+						"h": 143
+					},
+					"frame": {
+						"x": 179,
+						"y": 362,
+						"w": 150,
+						"h": 143
+					}
+				},
+				{
+					"filename": "meteor-explode-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 218,
+						"h": 189
+					},
+					"spriteSourceSize": {
+						"x": 45,
+						"y": 30,
+						"w": 128,
+						"h": 129
+					},
+					"frame": {
+						"x": 3,
+						"y": 365,
+						"w": 128,
+						"h": 129
+					}
+				},
+				{
+					"filename": "meteor-explode-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 218,
+						"h": 189
+					},
+					"spriteSourceSize": {
+						"x": 53,
+						"y": 48,
+						"w": 112,
+						"h": 95
+					},
+					"frame": {
+						"x": 334,
+						"y": 362,
+						"w": 112,
+						"h": 95
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:9f0ac460fce8fed5157d5923819d23e4:7de8f9708f43519b175252ca85387342:d7af225b0b49b74150d83ad97ca7008b$"
+	}
+}

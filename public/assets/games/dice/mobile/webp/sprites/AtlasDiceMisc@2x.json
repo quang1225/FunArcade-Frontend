@@ -1,0 +1,230 @@
+{
+	"textures": [
+		{
+			"image": "AtlasDiceMisc@2x.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 256,
+				"h": 512
+			},
+			"scale": 0.666667,
+			"frames": [
+				{
+					"filename": "bg-table",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 56,
+						"h": 280
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 56,
+						"h": 280
+					},
+					"frame": {
+						"x": 4,
+						"y": 4,
+						"w": 56,
+						"h": 280
+					}
+				},
+				{
+					"filename": "bg-thumb",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 160,
+						"h": 160
+					},
+					"frame": {
+						"x": 4,
+						"y": 290,
+						"w": 160,
+						"h": 160
+					}
+				},
+				{
+					"filename": "base",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 161,
+						"h": 28
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 161,
+						"h": 28
+					},
+					"frame": {
+						"x": 4,
+						"y": 456,
+						"w": 161,
+						"h": 28
+					}
+				},
+				{
+					"filename": "multiplier",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 153,
+						"h": 91
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 153,
+						"h": 91
+					},
+					"frame": {
+						"x": 66,
+						"y": 4,
+						"w": 153,
+						"h": 91
+					}
+				},
+				{
+					"filename": "blue",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 85,
+						"h": 85
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 85,
+						"h": 85
+					},
+					"frame": {
+						"x": 66,
+						"y": 101,
+						"w": 85,
+						"h": 85
+					}
+				},
+				{
+					"filename": "lid",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 148,
+						"h": 74
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 148,
+						"h": 74
+					},
+					"frame": {
+						"x": 66,
+						"y": 192,
+						"w": 148,
+						"h": 74
+					}
+				},
+				{
+					"filename": "star",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 77
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 80,
+						"h": 76
+					},
+					"frame": {
+						"x": 157,
+						"y": 101,
+						"w": 80,
+						"h": 76
+					}
+				},
+				{
+					"filename": "dice",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 76,
+						"h": 83
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 76,
+						"h": 83
+					},
+					"frame": {
+						"x": 170,
+						"y": 272,
+						"w": 76,
+						"h": 83
+					}
+				},
+				{
+					"filename": "bell",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 63,
+						"h": 51
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 63,
+						"h": 51
+					},
+					"frame": {
+						"x": 170,
+						"y": 361,
+						"w": 63,
+						"h": 51
+					}
+				},
+				{
+					"filename": "base-bell",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 75,
+						"h": 26
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 75,
+						"h": 26
+					},
+					"frame": {
+						"x": 170,
+						"y": 418,
+						"w": 75,
+						"h": 26
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:c4a0b140716f8815b890f5763a2a10b9:1bbd17d94f99f2a586c48bae533a89ff:e668165d79c0ac224b3b61e594b0da48$"
+	}
+}

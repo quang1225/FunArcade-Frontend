@@ -1,0 +1,335 @@
+{
+	"textures": [
+		{
+			"image": "AtlasCrashMisc@2x.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 512,
+				"h": 256
+			},
+			"scale": 0.666667,
+			"frames": [
+				{
+					"filename": "spaceship",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 291,
+						"h": 143
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 291,
+						"h": 143
+					},
+					"frame": {
+						"x": 3,
+						"y": 3,
+						"w": 291,
+						"h": 143
+					}
+				},
+				{
+					"filename": "bg_user_cashed_out",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 187,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 187,
+						"h": 64
+					},
+					"frame": {
+						"x": 299,
+						"y": 3,
+						"w": 187,
+						"h": 64
+					}
+				},
+				{
+					"filename": "part-snow",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 17,
+						"h": 17
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 17,
+						"h": 17
+					},
+					"frame": {
+						"x": 491,
+						"y": 3,
+						"w": 17,
+						"h": 17
+					}
+				},
+				{
+					"filename": "line",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 9,
+						"h": 65
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 9,
+						"h": 65
+					},
+					"frame": {
+						"x": 491,
+						"y": 25,
+						"w": 9,
+						"h": 65
+					}
+				},
+				{
+					"filename": "smoke-white",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 68,
+						"h": 68
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 68,
+						"h": 68
+					},
+					"frame": {
+						"x": 3,
+						"y": 151,
+						"w": 68,
+						"h": 68
+					}
+				},
+				{
+					"filename": "firework_1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 112,
+						"h": 7
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 112,
+						"h": 7
+					},
+					"frame": {
+						"x": 3,
+						"y": 224,
+						"w": 112,
+						"h": 7
+					}
+				},
+				{
+					"filename": "asteroids-1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 88,
+						"h": 67
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 88,
+						"h": 67
+					},
+					"frame": {
+						"x": 76,
+						"y": 151,
+						"w": 88,
+						"h": 67
+					}
+				},
+				{
+					"filename": "line-bridge",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 46,
+						"h": 30
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 46,
+						"h": 30
+					},
+					"frame": {
+						"x": 120,
+						"y": 223,
+						"w": 46,
+						"h": 30
+					}
+				},
+				{
+					"filename": "frame_sky",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 67,
+						"h": 67
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 67,
+						"h": 67
+					},
+					"frame": {
+						"x": 169,
+						"y": 151,
+						"w": 67,
+						"h": 67
+					}
+				},
+				{
+					"filename": "firework_2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 111,
+						"h": 7
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 7
+					},
+					"frame": {
+						"x": 3,
+						"y": 236,
+						"w": 111,
+						"h": 7
+					}
+				},
+				{
+					"filename": "firework_3",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 68,
+						"h": 7
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 68,
+						"h": 7
+					},
+					"frame": {
+						"x": 171,
+						"y": 223,
+						"w": 68,
+						"h": 7
+					}
+				},
+				{
+					"filename": "asteroids-0",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 73,
+						"h": 65
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 73,
+						"h": 65
+					},
+					"frame": {
+						"x": 241,
+						"y": 151,
+						"w": 73,
+						"h": 65
+					}
+				},
+				{
+					"filename": "frame_large_multiplier",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 64,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 64,
+						"h": 32
+					},
+					"frame": {
+						"x": 244,
+						"y": 221,
+						"w": 64,
+						"h": 32
+					}
+				},
+				{
+					"filename": "frame_small_multiplier",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 64,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 64,
+						"h": 32
+					},
+					"frame": {
+						"x": 313,
+						"y": 221,
+						"w": 64,
+						"h": 32
+					}
+				},
+				{
+					"filename": "fire",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 66,
+						"h": 50
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 66,
+						"h": 50
+					},
+					"frame": {
+						"x": 299,
+						"y": 95,
+						"w": 66,
+						"h": 50
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:f95436774fdc3845b2a550cef62387fc:d44687bac03e31d23bb7e350e3d35560:5c3f307480f266fb84115e27a0395108$"
+	}
+}
