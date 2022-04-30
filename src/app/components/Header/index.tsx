@@ -1207,6 +1207,18 @@ const Header = () => {
                     </AccordionDetails>
                   </Accordion>
                 </li>
+
+                <li className="menu-mobile-item" onClick={closeMobileMenu}>
+                  <CommonLink className="logo" to="/user/provably-fair">
+                    <img
+                      alt="Provably Fair Icon"
+                      width="24"
+                      height="24"
+                      src={ProvablyFairIcon}
+                    />
+                    {t(...messages.provablyFair())}
+                  </CommonLink>
+                </li>
                 <li
                   className="menu-mobile-item"
                   onClick={() => setOpenMobileMenu('search')}
