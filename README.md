@@ -1,6 +1,6 @@
 # FunAsia Frontend
 
-This is source code of one of my demos on [**quang.work**](https://quang.work/)
+👉 Demo images: <a href="https://quang.work/projects/funarcade" target="_blank"><b>https://quang.work/projects/funarcade</b></a>
 
 ## Build and run
 
