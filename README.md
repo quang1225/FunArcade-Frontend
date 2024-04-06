@@ -1,6 +1,6 @@
 # FunAsia Frontend
 
-- A React, Typescript frontend for game website.
+A React, Typescript frontend for game website.
   
 👉 Demo images: <a href="https://quang.work/projects/funarcade" target="_blank"><b>https://quang.work/projects/funarcade</b></a>
 
